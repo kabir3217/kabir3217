@@ -8,7 +8,7 @@
 
 <div align="center">
 <p>
-<a href="https://github.com/kabir3217">
+<a href="https://www.google.com/search?q=https://github.com/kabir3217">
 <img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2196F3%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi!%2BI%27m%2Ban%2BAssociate%2BData%2BScientist%3BBuilding%2BGenAI%2BSolutions%3BVisualizing%2BComplex%2BData%3BExploring%2BLLMs%2B%2526%2BRAG" alt="Typing SVG" />
 </a>
 </p>
